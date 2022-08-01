@@ -14,4 +14,3 @@ bgImage.src = `img/${chosen}`; //이미지 넣기
 const IMGname = `url('img/${chosen}')`;
 document.body.style.backgroundImage = IMGname;
 document.body.style.backgroundSize = "cover";
-document.container.style.background = "opacity:0.5";
